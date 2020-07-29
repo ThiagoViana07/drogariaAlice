@@ -1,10 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Descrição
-E-commerce de uma drogaria, com as funcionalidades de ver os produtos, adicionar ao carrinho e escolher a quantidade(aumentar e diminuir). Foi utlizado uma fakeApi para salvar os dados dos produtos. Para inicializa-lá basta escrever 'json-server server.json -p 3333'. 
+E-commerce de uma drogaria utilizando ReactJs, Redux e Redux-Saga, com as funcionalidades de ver os produtos, adicionar ao carrinho e escolher a quantidade(aumentar e diminuir). Foi utlizado uma fakeApi para salvar os dados dos produtos. Para inicializa-lá basta escrever 'json-server server.json -p 3333'. 
 
+## Home
+![drogaria Home](https://github.com/ThiagoViana07/drogariaAlice/blob/master/drogariaHome.png)
 
-
+## Cart
+![drogaria Carrinho](https://github.com/ThiagoViana07/drogariaAlice/blob/master/drogariaCarrinho.png)
 ## Available Scripts
 
 In the project directory, you can run:
