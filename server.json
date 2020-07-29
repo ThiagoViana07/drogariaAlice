@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "IBUPROFENO - IBUPRIL 300MG 10 CÁPSULAS",
+      "price": 13.55,
+      "image": "https://cdn.ultrafarma.com.br/static/produtos/772473/small-637248842151496205-772473_2.png"
+    },
+    {
+      "id": 2,
+      "title": "NEOSALDINA 30 DRÁGEAS",
+      "price": 25.88,
+      "image": "https://cdn.ultrafarma.com.br/static/produtos/800032/small-800032.jpg"
+    },
+    {
+      "id": 3,
+      "title": "AAS 100MG INFANTIL 30 COMPRIMIDOS - EMS - GENÉRICO",
+      "price": 5.17,
+      "image": "https://cdn.ultrafarma.com.br/static/produtos/767582/small-767582.jpg"
+    },
+    {
+      "id": 5,
+      "title": "DIPIRONA - ABERALGINA 500MG/ML GOTAS 20ML",
+      "price": 2.59,
+      "image": "https://cdn.ultrafarma.com.br/static/produtos/813900/small-637248239504959845-813900_2.png"
+    },
+    {
+      "id": 6,
+      "title": "DIPIRONA + ORFENADRINA + CAFEÍNA - DORFLEX 10 COMPRIMIDOS",
+      "price": 4.53,
+      "image": "https://cdn.ultrafarma.com.br/static/produtos/50088/small-50088.jpg"
+    },
+    {
+      "id": 4,
+      "title": "ANALGÉSICO ASPIRINA ADULTO 500MG 20 COMPRIMIDOS",
+      "price": 15.27,
+      "image": "https://cdn.ultrafarma.com.br/static/produtos/803490/small-637292295854337751-803490_3.jpg"
+    }
+  ]
+}
